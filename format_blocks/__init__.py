@@ -12,4 +12,4 @@ from .blocks import (
 )
 from .extras import JoinedLineBlock
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"

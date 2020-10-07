@@ -1,6 +1,6 @@
 # Format Blocks
 
-Format Blocks is a library for building code formatters.
+Format Blocks is a Python library for building code formatters.
 
 ## Usage
 
