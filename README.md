@@ -8,7 +8,7 @@ Format Blocks provides a number of 'block' objects which know how to arrange tex
 such as `LineBlock` which arranges elements on one line, and `StackBlock` which stacks them across
 lines, and `WrapBlock` which wraps inserts line breaks at the margin.
 
-However, the most import block is `ChoiceBlock`. ChoiceBlock accepts multiple formatting options,
+However, the most imporant block is `ChoiceBlock`. ChoiceBlock accepts multiple formatting options,
 and allows for the solver to pick the choices which _minimize the overall formatting cost_.
 
 See the tests for some examples!
